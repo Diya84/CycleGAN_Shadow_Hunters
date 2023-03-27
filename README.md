@@ -7,6 +7,6 @@ Artistic work is generally recognized through an artist’s brush strokes, color
 
 You can run the base code in the following way:
 
-1. Run the colab notebook CycleGAN-Monet Image Shadow_Hunters.ipynb.ipynb
+1. Run the colab notebook CycleGAN-Monet Image Shadow_Hunters.ipynb
 
 
